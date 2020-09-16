@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\c-sharp-design-patterns\\design-patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
-      "projectName": "ChainOfResponsibility",
-      "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\c-sharp-design-patterns\\design-patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\c-sharp-design-patterns\\design-patterns\\TemplateMethod\\TemplateMethod.csproj",
+      "projectName": "TemplateMethod",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\c-sharp-design-patterns\\design-patterns\\TemplateMethod\\TemplateMethod.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\c-sharp-design-patterns\\design-patterns\\ChainOfResponsibility\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\c-sharp-design-patterns\\design-patterns\\TemplateMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",

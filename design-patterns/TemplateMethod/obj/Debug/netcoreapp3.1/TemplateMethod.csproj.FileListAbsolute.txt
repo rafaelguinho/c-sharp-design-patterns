@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\c-sharp-design-patterns\design-patterns\TemplateMethod\bin\Debug\netcoreapp3.1\Files\example.txt
