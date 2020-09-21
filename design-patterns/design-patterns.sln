@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{60E43BC7-D8AE-495B-AB5F-E75291D292D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{B0F3D172-7F57-416C-A594-874202F2722C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{B0F3D172-7F57-416C-A594-874202F2722C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decortor\Decorator.csproj", "{3B86B39C-F8DF-4B7C-A66E-B87CC01A6659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{F601EA1C-F004-4609-8BB3-513946664781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B0F3D172-7F57-416C-A594-874202F2722C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F3D172-7F57-416C-A594-874202F2722C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F3D172-7F57-416C-A594-874202F2722C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B86B39C-F8DF-4B7C-A66E-B87CC01A6659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B86B39C-F8DF-4B7C-A66E-B87CC01A6659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B86B39C-F8DF-4B7C-A66E-B87CC01A6659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B86B39C-F8DF-4B7C-A66E-B87CC01A6659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F601EA1C-F004-4609-8BB3-513946664781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F601EA1C-F004-4609-8BB3-513946664781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F601EA1C-F004-4609-8BB3-513946664781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F601EA1C-F004-4609-8BB3-513946664781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
